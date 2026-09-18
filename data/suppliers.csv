@@ -1,0 +1,16 @@
+supplier_id,supplier_name,category,contract_start_date
+S001,Apex Industrial Supply,Raw Materials,2025-06-14
+S002,Ironclad Raw Materials,Raw Materials,2023-10-27
+S003,Atlas Global Materials,Raw Materials,2025-06-17
+S004,Silverline Packaging,Packaging,2024-01-02
+S005,BluePeak Packaging Solutions,Packaging,2023-11-29
+S006,Clearwater Supply Chain,Packaging,2023-11-07
+S007,Vertex Electronics Group,Electronics,2023-08-31
+S008,Circuit & Sons Electronics,Electronics,2024-08-04
+S009,Redwood Electronics,Electronics,2023-10-21
+S010,Meridian Components Ltd.,Components,2024-02-17
+S011,Granite Bay Components,Components,2024-08-04
+S012,Pinnacle Manufacturing Inputs,Components,2025-02-14
+S013,Harborview Logistics,Logistics Services,2023-08-15
+S014,Summit Freight Partners,Logistics Services,2023-09-10
+S015,Northgate Logistics Co.,Logistics Services,2023-12-30
